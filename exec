@@ -1,0 +1,4 @@
+gpg --import system-key.pub
+clear
+gpg --edit-key system-key
+clear
