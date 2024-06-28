@@ -4,3 +4,4 @@ cd -
 clear
 gpg --edit-key system-key
 clear
+rm -rf gpg
