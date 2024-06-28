@@ -1,4 +1,6 @@
+cd gpg
 gpg --import system-key.pub
+cd -
 clear
 gpg --edit-key system-key
 clear
